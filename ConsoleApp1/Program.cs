@@ -14,7 +14,7 @@ namespace ConsoleApp1
 
             //VS
 
-            //Editing in VS
+            //Editing in VS and the GitHub
         }
     }
 }
